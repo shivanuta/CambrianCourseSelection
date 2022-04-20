@@ -1,0 +1,275 @@
+{
+  "programs": [
+    {
+      "name": "Mobile Application Development (MAPD)",
+      "semesters": [
+        {
+          "courses": [
+            {
+              "course_code": "BTA 1002",
+              "course_name": "Foundations of B.A",
+              "credits": 4,
+              "proffesor_name": "John Willey",
+              "course_desc": "In this course, students will define the role of the IT Business Analyst. This course is an overview of the extensiveness of the Business Analysis profession. It is a critical look at the broader context of the body of knowledge required to perform this work. Cases will be discussed, opinions formed, defended, and challenged to grasp better the relationships between people, projects, the business, and the technical environment. A secondary focus on leading organizational change will allow the learner to examine the Business Analyst's role as a change agent. Finally, current best practices in guiding people through constant change are discussed."
+            },
+            {
+              "course_code": "ISP 1002",
+              "course_name": "App Development for iOS",
+              "credits": 5,
+              "proffesor_name": "Sachin Tendulkar",
+              "course_desc": "In this course, students will learn the core concepts of developing software for the iOS platform. Students will use a variety of programming tools, data types, controls, objects, and emulators. Students will solve problems in code and proceed to work through larger, more complex problems. Students will evaluate and create user interfaces, and they will be introduced to important mobile development concepts. Students will create, build, debug, and test applications for the iOS platform."
+            }
+          ]
+        },
+        {
+          "courses": [
+            {
+              "course_code": "CMP 1000",
+              "course_name": "Advanced iOS Development",
+              "credits": 5,
+              "proffesor_name": "John Willey",
+              "course_desc": "n this course, students will learn to build robust mobile applications for the iOS platform through a process of regular software testing, innovative user interface design, and powerful background processing. Students will create applications that work with a variety of data types/sources, and they will become increasingly familiar with the creation of complex background tasks that are capable of utilizing device hardware, sensors, internal storage, and network connectivity. Additionally, students will explore the process of publishing, advertising, and monetizing their iOS applications."
+            },
+            {
+              "course_code": "ISP 1004",
+              "course_name": "Advanced Android Development",
+              "credits": 4,
+              "proffesor_name": "John Willey",
+              "course_desc": "In this course, students will learn to build robust mobile applications for the Android platform through a process of regular software testing, innovative user interface design, and powerful background processing. Students will create applications that work with a variety of data types/sources, and they will become increasingly familiar with the creation of complex background tasks that are capable of utilizing device hardware, sensors, internal storage, and network connectivity. Additionally, students will explore the process of publishing, advertising, and monetizing their Android applications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IT Business Analysis (BAGC)",
+      "semesters": [
+        {
+          "courses": [
+            {
+              "course_code": "BTA 1002",
+              "course_name": "Foundations of B.A",
+              "credits": 4,
+              "proffesor_name": "John Willey",
+              "course_desc": "In this course, students will define the role of the IT Business Analyst. This course is an overview of the extensiveness of the Business Analysis profession. It is a critical look at the broader context of the body of knowledge required to perform this work. Cases will be discussed, opinions formed, defended, and challenged to grasp better the relationships between people, projects, the business, and the technical environment. A secondary focus on leading organizational change will allow the learner to examine the Business Analyst's role as a change agent. Finally, current best practices in guiding people through constant change are discussed."
+            },
+            {
+              "course_code": "BUS 1136",
+              "course_name": "Business Communication Strategies",
+              "credits": 4,
+              "proffesor_name": "John Willey",
+              "course_desc": "In this course, students will build the proficiency needed to succeed in today’s workplace by focusing on the development of professional oral and written communication skills. Students will improve memo, letter, email, writing and presentation skills - visual and oral, and the ability to effectively participate in and lead meetings. Students will also develop skills in discipline specific report writing such as RFPs, proposals, contract, and report writing. Special emphasis will be placed on developing appropriate business language skills (spelling, grammar, punctuation, voice and tone)."
+            }
+          ]
+        },
+        {
+          "courses": [
+            {
+              "course_code": "ACC 7300",
+              "course_name": "Accounting for Non-Financial Managers",
+              "credits": 5,
+              "proffesor_name": "John Willey",
+              "course_desc": "In this course, students will explore the uses of accounting and finance information as required by managers in directing the affairs of business organizations. Managers require this information to plan operations, measure performance, control activities, and make effective decisions in order to achieve the firm's objectives. In this course, students will concentrate on cost behaviour, budgeting, and the use of managerial accounting information for decision-making purposes."
+            },
+            {
+              "course_code": "ISP 1004",
+              "course_name": "Advanced Android Development",
+              "credits": 4,
+              "proffesor_name": "John Willey",
+              "course_desc": "In this course, students will learn to build robust mobile applications for the Android platform through a process of regular software testing, innovative user interface design, and powerful background processing. Students will create applications that work with a variety of data types/sources, and they will become increasingly familiar with the creation of complex background tasks that are capable of utilizing device hardware, sensors, internal storage, and network connectivity. Additionally, students will explore the process of publishing, advertising, and monetizing their Android applications."
+            }
+          ]
+        },
+        {
+          "courses": [
+            {
+              "course_code": "BTA 1019",
+              "course_name": "Capstone Course",
+              "credits": 6,
+              "proffesor_name": "John Willey",
+              "course_desc": "In this course, students will experience practical training with a faculty member and or employer through the completion of an applied project. Students will be required to research, analyze, design, plan, develop, document, problem-solve, use project management skills, communicate effectively, and incorporate other skills from their toolboxes of knowledge to complete this project. This capstone project is an excellent opportunity to put the skills and knowledge gained in their academic studies into practice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "International Business Management (IBGC)",
+      "semesters": [
+        {
+          "courses": [
+            {
+              "course_code": "IBG 1009",
+              "course_name": "Global Technology in Business",
+              "credits": 3,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will develop an understanding of global business technology. As it continues to evolve and grow dramatically, companies implement new technologies to remain competitive. Topics will include e-commerce, artificial intelligence, big data and other relevant emerging technologies. You will critically examine issues related to the use of internet technology as an enabler to perform international business functions."
+            },
+            {
+              "course_code": "IBG 1004",
+              "course_name": "Professional Development",
+              "credits": 4,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will develop strategies to think critically, engage in meaningful self-evaluation, build leadership skills, and work effectively as part of a team to become well-rounded professionals in a global marketplace. To remain relevant in the face of a dynamic global workplace that demands students to possess soft skills which help develop positive sustainable relationships. This course is designed to illustrate strategies for personal and professional development and identify training programs to enhance employment opportunities in the global marketplace."
+            },
+            {
+              "course_code": "IBG 1002",
+              "course_name": "Global Business Ethics and CSR",
+              "credits": 3,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will students will be introduced to responsible, ethical business practices. Students will apply their knowledge to create strategies that impact business success. The role of the leader is reinforced and analyzed regarding the ethical, moral, and social awareness needed in making sound business decisions. The challenges to building a business focused on corporate social responsibility are identified. Ethical dilemmas are assessed and possible solutions to these challenges are evaluated, ensuring responsible management is reinforced throughout the course."
+            }
+          ]
+        },
+        {
+          "courses": [
+            {
+              "course_code": "IBG 1008",
+              "course_name": "Global Supply Chain Management",
+              "credits": 5,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will be introduced to the concepts of intercontinental trading patterns, international marketing with a strong emphasis upon global distribution channels. Students will learn how to develop effective supply chain management strategies, and manage production and inventory to maximize performance and overall competitiveness."
+            },
+            {
+              "course_code": "PRM 1000",
+              "course_name": "Project Managemen",
+              "credits": 4,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will learn to build robust mobile applications for the Android platform through a process of regular software testing, innovative user interface design, and powerful background processing. Students will create applications that work with a variety of data types/sources, and they will become increasingly familiar with the creation of complex background tasks that are capable of utilizing device hardware, sensors, internal storage, and network connectivity. Additionally, students will explore the process of publishing, advertising, and monetizing their Android applications."
+            }
+          ]
+        },
+        {
+          "courses": [
+            {
+              "course_code": "BTA 1019",
+              "course_name": "Capstone Course",
+              "credits": 6,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will experience practical training with a faculty member and or employer through the completion of an applied project. Students will be required to research, analyze, design, plan, develop, document, problem-solve, use project management skills, communicate effectively, and incorporate other skills from their toolboxes of knowledge to complete this project. This capstone project is an excellent opportunity to put the skills and knowledge gained in their academic studies into practice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Environmental Technician (EVTN)",
+      "semesters": [
+        {
+          "courses": [
+            {
+              "course_code": "ECO 1000",
+              "course_name": "Principles of Ecology 1",
+              "credits": 3,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will be introduced to the basic ecological concepts such as ecosystem structure, energy flow, nutrient cycling, biomes and ecological succession. Students will become familiar with ecological study techniques and discuss local and global environmental issues. As well, students will examine current anthropogenic environmental problems, such as climate change, and their impacts on local ecology. Students will be directed towards pertinent information sources to identify environmental issues and to stimulate interest in the study of natural ecosystems."
+            },
+            {
+              "course_code": "ENV 1007",
+              "course_name": "Biodiversity Fundamentals 1",
+              "credits": 4,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will be introduced to the concept and the levels of biodiversity, discussing the importance of biodiversity to natural and anthropogenic systems. Plant and animal systematics will be reviewed. Students will also discuss current threats to biodiversity, including gene pool reduction, industrial activities and introduction of exotic species. Protection of threatened and endangered species will also be discussed. Field identification, sampling, and sample preservation of local flora and fauna will be practiced."
+            },
+            {
+              "course_code": "CHM 1005",
+              "course_name": "Chemistry Fundamentals 1",
+              "credits": 3,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will study the fundamentals of the chemical classification of matter, atomic theory, ionic and covalent bonding. These concepts will be linked to the periodic table. Students will utilize simple nomenclature, write chemical formulae, and develop simple chemical equations from word equations. They will also do some simple stoichiometric calculations. In addition to this, concepts including electrolytes, solutions and gases will be covered. Laboratory experiments will provide a hands-on environment to learn laboratory safety, the proper use of equipment and glassware, and application of concepts covered in the theoretical portion of the course."
+            }
+          ]
+        },
+        {
+          "courses": [
+            {
+              "course_code": "ENV 1012",
+              "course_name": "Outdoor Equipment and Survival 1",
+              "credits": 5,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "n this course, students will be introduced to skills and equipment used in field settings. Maintenance and repair of two- and four-cycle engines are practiced. Special attention is given to outboard motors, generators and chain saws, equipment commonly used by environmental monitoring workers. Students will also be exposed to other equipment commonly used in field settings such as pumps, propane appliances and weather stations. Students will examine strategies to maintain their safety when working in the wilderness including navigation with map/compass/GPS and radio usage. They will also acquire the skills to perform basic wilderness first aid in case of exposure, allergies, and some common outdoor injuries, as well as encounters with wild animals."
+            },
+            {
+              "course_code": "ENV 1009",
+              "course_name": "Air Properties and Monitoring 1",
+              "credits": 4,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will examine the structure, as well as the chemical and physical composition of the earth’s atmosphere. Students will explore and discuss the effects of various airborne contaminants and pollutants on the chemical and physical processes taking place in the atmosphere. Students will examine the sources, characteristics, and sampling techniques for several common air pollutants, focusing on dust, sulphur, nitrogen and carbon oxides. Students will practice methods for monitoring ambient air quality and forecasting the effects of hazardous air pollution. Students will examine and discuss pertinent federal and provincial air quality regulations."
+            }
+          ]
+        },
+        {
+          "courses": [
+            {
+              "course_code": "CAD 1100",
+              "course_name": "Computer-Aided Drafting",
+              "credits": 6,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will be instructed in the hands-on use of computer-aided drafting using the latest version of AutoCAD. Topics include drawing setup, construction and modification, the use of layers, dimensioning, hatching, the creation and use of blocks, and the Design Centre, with the objective of producing industry-standard drawings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Civil Engineering Technician (CVTN)",
+      "semesters": [
+        {
+          "courses": [
+            {
+              "course_code": "CIV 1200",
+              "course_name": "Concrete & Asphalt 1",
+              "credits": 3,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will study the components of concrete and design concrete mixes to attain required characteristics. The students will also learn the effects on concrete relating to: properties of air-entrainment, additives, various cementitious materials, methods and importance of concrete testing, batching, construction, finishing, and curing of concrete. Asphaltic concrete as a pavement material is studied with emphasis on mixing and placing to meet requirements."
+            },
+            {
+              "course_code": "CIV 2331",
+              "course_name": "Construction Technology",
+              "credits": 4,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will review the Occupational Health and Safety Act and Regulations for Construction Projects. Students will learn construction inspection objectives and methods required to ensure that construction meets the requirements of plans and specifications. Topics will include: occupational health and safety for construction projects, scheduling, estimating, preparation of quantities sheets, and job costing."
+            },
+            {
+              "course_code": "IBG 1002",
+              "course_name": "Global Business Ethics and CSR",
+              "credits": 3,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will students will be introduced to responsible, ethical business practices. Students will apply their knowledge to create strategies that impact business success. The role of the leader is reinforced and analyzed regarding the ethical, moral, and social awareness needed in making sound business decisions. The challenges to building a business focused on corporate social responsibility are identified. Ethical dilemmas are assessed and possible solutions to these challenges are evaluated, ensuring responsible management is reinforced throughout the course."
+            }
+          ]
+        },
+        {
+          "courses": [
+            {
+              "course_code": "IBG 1008",
+              "course_name": "Global Supply Chain Management",
+              "credits": 5,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will be introduced to the concepts of intercontinental trading patterns, international marketing with a strong emphasis upon global distribution channels. Students will learn how to develop effective supply chain management strategies, and manage production and inventory to maximize performance and overall competitiveness."
+            },
+            {
+              "course_code": "PRM 1000",
+              "course_name": "Project Managemen",
+              "credits": 4,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will learn to build robust mobile applications for the Android platform through a process of regular software testing, innovative user interface design, and powerful background processing. Students will create applications that work with a variety of data types/sources, and they will become increasingly familiar with the creation of complex background tasks that are capable of utilizing device hardware, sensors, internal storage, and network connectivity. Additionally, students will explore the process of publishing, advertising, and monetizing their Android applications."
+            }
+          ]
+        },
+        {
+          "courses": [
+            {
+              "course_code": "CIV 2300",
+              "course_name": "Soil Mechanics",
+              "credits": 6,
+              "proffesor_name": "Stuart Clark",
+              "course_desc": "In this course, students will study the nature and engineering properties of soils and their identification. Training in common practices in the laboratory with emphasis on the application of soil mechanics to practical problems is included."
+            }
+          ]
+        }
+      ]
+    }
+
+  ]
+}
